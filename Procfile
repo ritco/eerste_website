@@ -1,1 +1,1 @@
-web: gunicron eerste_website:app
+web: gunicorn eerste_website:app
